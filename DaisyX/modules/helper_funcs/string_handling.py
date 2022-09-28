@@ -4,7 +4,7 @@ from typing import Dict, List
 
 import bleach
 import emoji
-import markdown2
+
 from telegram import MessageEntity
 from telegram.utils.helpers import escape_markdown
 
